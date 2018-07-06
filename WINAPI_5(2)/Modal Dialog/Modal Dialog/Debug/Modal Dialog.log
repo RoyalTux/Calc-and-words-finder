@@ -1,0 +1,14 @@
+﻿  Modal Dialog.cpp
+i:\win api\homework\winapi_5\winapi_5(2)\modal dialog\modal dialog\modal dialog.cpp(97): warning C4244: =: преобразование "double" в "INT", возможна потеря данных
+i:\win api\homework\winapi_5\winapi_5(2)\modal dialog\modal dialog\modal dialog.cpp(98): warning C4244: =: преобразование "double" в "INT", возможна потеря данных
+i:\win api\homework\winapi_5\winapi_5(2)\modal dialog\modal dialog\modal dialog.cpp(67): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdlib.h(67): note:  см. объявление "_itow"
+i:\win api\homework\winapi_5\winapi_5(2)\modal dialog\modal dialog\modal dialog.cpp(78): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdlib.h(67): note:  см. объявление "_itow"
+i:\win api\homework\winapi_5\winapi_5(2)\modal dialog\modal dialog\modal dialog.cpp(89): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdlib.h(67): note:  см. объявление "_itow"
+i:\win api\homework\winapi_5\winapi_5(2)\modal dialog\modal dialog\modal dialog.cpp(104): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdlib.h(67): note:  см. объявление "_itow"
+Modal Dialog.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  Modal Dialog.vcxproj -> I:\Win API\homework\WINAPI_5\WINAPI_5(2)\Modal Dialog\Debug\Modal Dialog.exe
+  Modal Dialog.vcxproj -> I:\Win API\homework\WINAPI_5\WINAPI_5(2)\Modal Dialog\Debug\Modal Dialog.pdb (Full PDB)
